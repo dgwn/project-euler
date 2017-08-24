@@ -1,5 +1,5 @@
 var numList = [];
-var upTo = 10;
+var upTo = 1000;
 for (var i = 0; i < upTo; i++) {
   if (i % 3 === 0 && i > 0) {
     numList.push(i);
